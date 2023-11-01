@@ -1,6 +1,6 @@
 # Rxinns-WindowsBatch
 
-这是我分享在GitHub上的一些我自己用的Windows脚本。以下是其中两个脚本的介绍：
+这是我分享在GitHub上的一些我自己写的Windows脚本。
 
 ## [Shizuku-Activated](https://github.com/RxinnotRstar/Rxinns-WindowsBatch/tree/main/Shizuku-Activated)
 
